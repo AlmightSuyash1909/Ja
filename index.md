@@ -22,22 +22,22 @@
    6. !false //  true
 
 ## Valid and In4alid String Data
-  Write valid and invalid next to each line of string value:6
+  Write valid and invalid next to each line of string value:
 
-   1. "Welcome to JavaScript"
-   2. 'Welcome to JavaScript"
-   3. "Welcome to JavaScript'
-   4. 'Welcome to JavaScript'
-   5. `Welcome to JavaScript'
-   6. `Welcome to JavaScript"
-   7. `Welcome to JavaScript23
+   1. "Welcome to JavaScript" // valid
+   2. 'Welcome to JavaScript" // invalid
+   3. "Welcome to JavaScript' // inavlid
+   4. 'Welcome to JavaScript' // valid
+   5. `Welcome to JavaScript' // inalid
+   6. `Welcome to JavaScript" // invalid
+   7. `Welcome to JavaScript` // valid
 
 ## BONUS
-  What will be the output of code below and why? (HINT: all the output will be the same)6
-   1. typeof typeof "abc
-   2. typeof typeof typeof -0
-   3. typeof typeof typeof 4
-   4. typeof typeof NaN
-   5. typeof typeof phone
-   6. typeof typeof null
-   7. typeof typeof undefined
+  What will be the output of code below and why? (HINT: all the output will be the same)
+   1. typeof typeof "abc // "string"
+   2. typeof typeof typeof -0 // "string"
+   3. typeof typeof typeof 4 // "string
+   4. typeof typeof NaN // "string"
+   5. typeof typeof phone // "string"
+   6. typeof typeof null // "string"
+   7. typeof typeof undefined // "string"
